@@ -1,16 +1,24 @@
 # 👋 Hello, I'm Loan! 
 ### 🧑‍💻 Aspiring Data & AI Engineer
 
-[cite_start]Étudiant en $4^{e}$ année à l'ECE Paris, spécialisé en **Big Data & IA**. [cite_start]Passionné par le **Machine Learning** et l'**IA générative**, je suis rigoureux et doté d'une forte capacité d'apprentissage[cite: 3].
-
-[cite_start]Je suis activement à la recherche d'un **Stage de 5 mois en Data & IA** à partir d'Avril 2026[cite: 1, 2].
+Étudiant en $4^{e}$ année à l'ECE Paris, spécialisé en **Big Data & IA**. Passionné par le **Machine Learning** et l'**IA générative**, je suis rigoureux et doté d'une forte capacité d'apprentissage.
+Je suis activement à la recherche d'un **Stage de 5 mois en Data & IA** à partir d'Avril 2026.
 
 ---
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 </p>
 
 ## 🛠️ Mon Tech Stack Clé
@@ -21,32 +29,34 @@
 | **IA Générative** | GPT-API, Gemini, Mistral, Azure AI Studio, Prompt Engineering, Fine-tuning |
 | **Cloud / Backend** | FastAPI, WebSockets, GCP (BQ, Storage), Bash (utilisation quotidienne) |
 | **Langages / Web** | SQL, C/C++, Java, HTML/CSS/JS/PHP, TypeScript, Arduino |
+| **Business / BI** | Power BI |
+| **Logiciels** | VSCode, Github, Suite JetBrains, Suite Microsoft |
 
 ---
 
-![Snake animation](https://github.com/loanper/loanper/blob/output/github-contribution-grid-snake.svg)
 ## 💡 Mes Réalisations Récentes (Projets Épinglés)
 
-[cite_start]**Hackathon Paris AI @Station F (Pioneers AI Lab) - Prototype Complet (2025)** 
+**Hackathon Paris AI @Station F (Pioneers AI Lab) - Prototype Complet (2025)**
 
-* [cite_start]Développement d'une IA d'**analyse émotionnelle vocale temps réel** (utilisant Gemini Live + Prosody AI).
-* [cite_start]Architecture complète incluant **FastAPI WebSockets**, **Next.js**, **n8n**, ElevenLabs et **GCP** (BigQuery + Storage).
-* [cite_start]Pipeline audio end-to-end performant (3 sec de latence) avec classification de 8 émotions.
-* [cite_start]*Ce projet a été construit en 1 jour en partenariat avec Google Cloud, Mistral et ElevenLabs.* 
+* Développement d'une IA d'**analyse émotionnelle vocale temps réel** (utilisant Gemini Live + Prosody AI).
+* Architecture complète incluant **FastAPI WebSockets**, **Next.js**, **n8n**, ElevenLabs et **GCP** (BigQuery + Storage).
+* Pipeline audio end-to-end performant (3 sec de latence) avec classification de 8 émotions.
+* *Ce projet a été construit en 1 jour en partenariat avec Google Cloud, Mistral et ElevenLabs.*
 
 **Autres projets notables:**
 
-* [cite_start]**Création d'un modèle de détection d'anomalies visuelles** sur véhicules via API de modèles multimodaux (GPT, Gemini, Mistral)[cite: 4].
-* [cite_start]**Modélisation de champs électromagnétiques** en Python et conception de visualisations interactives[cite: 4].
-* [cite_start]**Projets Kaggle** et Hackathons Machine Learning [cite: 4] (Voir les repos épinglés ci-dessous : *Titanic-Prediction*, *pioneers-hackathon-vertex*, *pioneers-hackathon-webapp*).
+* **Création d'un modèle de détection d'anomalies visuelles** sur véhicules via API de modèles multimodaux (GPT, Gemini, Mistral).
+* [cite_start]**Modélisation de champs électromagnétiques** en Python et conception de visualisations interactives.
+* [cite_start]**Projets Kaggle** et Hackathons Machine Learning  (Voir les repos épinglés ci-dessous : *Titanic-Prediction*, *pioneers-hackathon-vertex*, *pioneers-hackathon-webapp*).
 
 ---
 
 ## 🎓 Formation & Engagement
 
-* [cite_start]**ECE Paris** - Majeure Big Data & IA / Mineure Recherche IA (2022 - 2027)[cite: 4].
-* [cite_start]**McGill University** - Semestre d'échange (Automne 2024) en Programmation avancée et Data Analysis[cite: 4].
-* [cite_start]**Formateur bénévole - Emmaüs Connect** (2022-2024) : Lutte contre la fracture numérique[cite: 4].
+* [cite_start]**ECE Paris** - Majeure Big Data & IA / Mineure Recherche IA (2022 - 2027).
+* [cite_start]**McGill University** - Semestre d'échange (Automne 2024) en Programmation avancée et Data Analysis.
+* [cite_start]**Formateur bénévole - Emmaüs Connect** (2022-2024) : Lutte contre la fracture numérique.
+* [cite_start]**Président** de l'association environnementale **Noise ECE**.
 
 ---
 
@@ -55,3 +65,8 @@
 [LinkedIn] **(Ajoutez le lien de votre profil ici)**
 
 [cite_start][Email] loan.perrard@edu.ece.fr [cite: 3]
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loanper&layout=compact&theme=dark" alt="Top Langs" />
+</p>
