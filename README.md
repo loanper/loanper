@@ -6,8 +6,9 @@
 [cite_start]Je suis activement à la recherche d'un **Stage de 5 mois en Data & IA** à partir d'Avril 2026[cite: 1, 2].
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loanper)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ## 🛠️ Mon Tech Stack Clé
 
 | Domaine | Outils & Langages |
