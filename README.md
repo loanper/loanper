@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Loan! 
 ### 🧑‍💻 Aspiring Data & AI Engineer
 
-Étudiant en 4ᵉ année à l'ECE Paris, spécialisé en **Big Data & IA**. [cite_start]Passionné par le **Machine Learning** et l'**IA générative**, je suis rigoureux et doté d'une forte capacité d'apprentissage[cite: 3].
-[cite_start]Je suis activement à la recherche d'un **Stage de 5 mois en Data & IA** à partir d'Avril 2026[cite: 1, 2].
+Étudiant en 4ᵉ année à l'ECE Paris, spécialisé en **Big Data & IA**. [cite_start]Passionné par le **Machine Learning** et l'**IA générative**, je suis rigoureux et doté d'une forte capacité d'apprentissage.
+Je suis activement à la recherche d'un **Stage de 5 mois en Data & IA** à partir d'Avril 2026.
 
 ---
 
@@ -50,26 +50,26 @@
 
 **Autres projets notables:**
 
-* [cite_start]**Création d'un modèle de détection d'anomalies visuelles** sur véhicules via API de modèles multimodaux (GPT, Gemini, Mistral).
-* [cite_start]**Modélisation de champs électromagnétiques** en Python et conception de visualisations interactives.
-* [cite_start]**Projets Kaggle** et Hackathons Machine Learning (Voir les repos épinglés ci-dessous : *Titanic-Prediction*, *pioneers-hackathon-vertex*, *pioneers-hackathon-webapp*).
+**Création d'un modèle de détection d'anomalies visuelles** sur véhicules via API de modèles multimodaux (GPT, Gemini, Mistral).
+**Modélisation de champs électromagnétiques** en Python et conception de visualisations interactives.
+**Projets Kaggle** et Hackathons Machine Learning (Voir les repos épinglés ci-dessous : *Titanic-Prediction*, *pioneers-hackathon-vertex*, *pioneers-hackathon-webapp*).
 
 ---
 
 ## 🎓 Formation & Engagement
 
-* [cite_start]**ECE Paris** - Majeure Big Data & IA / Mineure Recherche IA (2022 - 2027).
-* [cite_start]**McGill University** - Semestre d'échange (Automne 2024) en Programmation avancée et Data Analysis.
-* [cite_start]**Formateur bénévole - Emmaüs Connect** (2022-2024) : Lutte contre la fracture numérique.
-* [cite_start]**Président** de l'association environnementale **Noise ECE**.
+**ECE Paris** - Majeure Big Data & IA / Mineure Recherche IA (2022 - 2027).
+**McGill University** - Semestre d'échange (Automne 2024) en Programmation avancée et Data Analysis.
+**Formateur bénévole - Emmaüs Connect** (2022-2024) : Lutte contre la fracture numérique.
+**Président** de l'association environnementale **Noise ECE**.
 
 ---
 
 ### 🌐 Connectez-vous avec moi
 
-[LinkedIn] **(Ajoutez le lien de votre profil ici)**
+[LinkedIn] (https://www.linkedin.com/in/loanperrard/)
 
-[cite_start][Email] loan.perrard@edu.ece.fr [cite: 3]
+[Email] perrardloan@gmail.com
 
 <br/>
 <p align="center">
