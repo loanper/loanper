@@ -24,7 +24,7 @@
 
 ---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/loanper/loanper/blob/output/github-contribution-grid-snake.svg)
 ## 💡 Mes Réalisations Récentes (Projets Épinglés)
 
 [cite_start]**Hackathon Paris AI @Station F (Pioneers AI Lab) - Prototype Complet (2025)** 
