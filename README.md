@@ -7,7 +7,7 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=loanper)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loanper)
 ## 🛠️ Mon Tech Stack Clé
 
 | Domaine | Outils & Langages |
