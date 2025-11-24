@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loan</h1>
 <h3 align="center">Engineering Student @ECE Paris (Big Data & AI) | Looking for a 4-month Internship starting April 2026</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loanper&label=Profile%20views&color=0e75b6&style=flat" alt="loanper" /> </p>
-
 - 🔭 I’m currently working on **Optimizing LLM pipelines & Computer Vision projects**
 
 - 🌱 I’m currently learning **Advanced MLOps, RAG Architectures & TinyML**
