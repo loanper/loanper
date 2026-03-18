@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Loan</h1>
-<h3 align="center">Engineering Student @ECE Paris (Big Data & AI) | Looking for a 4-month Internship starting April 2026</h3>
+<h3 align="center">Engineering Student @ECE Paris (Big Data & AI)</h3>
 
 - 🔭 I’m currently working on **Optimizing LLM pipelines & Computer Vision projects**
 
