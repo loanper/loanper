@@ -1,14 +1,16 @@
 # Loan Perrard
 
-### Engineering Student – Data Engineering, Big Data & AI @ ECE Paris
+### DevSecOps · Cloud · Data Platform Engineer — CentraleSupélec × ECE Paris
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loan_Perrard-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/loanperrard/)
 [![GitHub](https://img.shields.io/badge/GitHub-loanper-black?style=flat&logo=github)](https://github.com/loanper)
 [![Email](https://img.shields.io/badge/Email-perrardloan%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:perrardloan@gmail.com)
 
-> Passionate about Data Engineering, distributed systems, and building end-to-end data projects.
->
-> 🚀 Incoming **Data Engineering Intern at Arquus** starting April 2026.
+> Digital sovereignty applied to infrastructure: system hardening and Kubernetes in a defense
+> environment (Arquus internship), sovereign compute infrastructure as co-founder (Rian Electronics).
+
+🎓 Dual-degree student at CentraleSupélec (Information Systems Architecture) — preparing CKA
+🚀 CTO Software & Co-founder — Rian Electronics (DeepTech, Edge AI)
 
 ---
 
@@ -16,60 +18,51 @@
 
 | Domain | Tech Stack |
 | :--- | :--- |
-| **Big Data & Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A84FF?style=flat-square&logo=databricks&logoColor=white) ![Iceberg](https://img.shields.io/badge/Apache_Iceberg-2F6BFF?style=flat-square&logo=apache&logoColor=white) |
-| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) |
-| **Data Science & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Development & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **DevSecOps & Security** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square) ![OpenSCAP](https://img.shields.io/badge/OpenSCAP-CC0000?style=flat-square) |
+| **Cloud & Orchestration** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
+| **Big Data & Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) |
+| **Development & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Systems & CI/CD** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 ---
 
 ## 🚀 Selected Projects
 
-### [Real-Time AI Hackathon – Pioneers @ Station F](https://github.com/loanper/pioneers-hackathon-vertex)
-> **Stack:** `Python` `FastAPI` `React` `TypeScript` `GCP` `Vertex AI` `Docker`
-* Built an end-to-end AI app with backend and frontend.
-* Used Google Cloud services for processing and storage.
-* Designed a modular pipeline for real-time voice analysis.
+### [Shipper — DORA Compliance Platform (HEC Paris Fintech Hackathon)](https://github.com/loanper/fintech-hackathon-2026)
+> **Stack:** `FastAPI` `LlamaIndex` `Neo4j` `Vertex AI` `Next.js` — Team of 4 · Partners: Mistral/Cerebras/Google/Stanford
+- Built an AI compliance platform for financial institutions against the EU DORA regulation
+- Supplier dependency graph (Neo4j) and explainable gap analysis against Article 30
+- Pitched live to event partners
+
+### [Pioneers — Real-Time AI Hackathon @ Station F](https://github.com/loanper/pioneers-hackathon-vertex)
+> **Stack:** `FastAPI` `GCP` `Vertex AI` `Docker` — Selected among ~10% of applicants
+- Real-time voice emotion analysis agent (Gemini Live + Prosody AI, ElevenLabs)
+- End-to-end audio pipeline under 3s, 8-emotion classification
+
+### [Cloud-Native Spark Pipeline](https://github.com/loanper/Pipeline-Spark)
+> **Stack:** `Apache Spark` `Docker` `MinIO` `Python`
+- Large-scale ETL on a 7.7M-record dataset (US accidents)
+- Containerized Spark compute with S3-compatible storage (MinIO via S3A)
 
 ### [DVF Data Lake Pipeline](https://github.com/loanper/Pipeline_DVF_DataLake)
-> **Stack:** `Python` `Pandas` `DuckDB` `SQL` `Data Lake`
-* Built a multi-layer data pipeline: raw, staging, and curated.
-* Created a local analytical warehouse with DuckDB.
-* Prepared clean data for BI and analysis.
+> **Stack:** `Python` `DuckDB` `SQL`
+- Data platform implementing a Medallion Architecture (Raw → Staging → Curated)
+- Local analytical warehouse (DuckDB) processing French real estate data (DVF)
 
-### [Azure DataFlow Intelligence](https://github.com/loanper/Azure-DataFlow-Intelligence)
-> **Stack:** `Python` `Azure Functions` `Azure Blob Storage` `Azure Document Intelligence`
-* Built a serverless document processing pipeline on Azure.
-* Extracted and transformed data from PDF files automatically.
-* Connected storage, cloud functions, and document analysis tools.
-
-### [Distributed Spark Pipeline](https://github.com/loanper/Pipeline-Spark)
-> **Stack:** `Apache Spark` `Docker` `MinIO` `Python`
-* Processed large-scale data with Spark.
-* Used MinIO as S3-like object storage.
-* Built a reproducible Docker-based environment.
+### [Membership Inference on LLMs (SaMIA)](https://github.com/loanper/llm-mia-evaluation)
+> **Stack:** `Python` `Qwen2.5` `Multi-metric evaluation` — 1-year research project (ECE minor)
+- Reproduced and extended a sampling-based membership inference method to assess LLM
+  memorization risk on unlabeled social media data
+- Research poster presented at ECE's LyRIDS lab research day, in front of researchers,
+  PhD students, and industry partners
 
 ### [Eco-Predict](https://github.com/loanper/Eco-Predict)
-> **Stack:** `Python` `XGBoost` `Optuna` `Scikit-learn` `FastAPI`
-* Built a machine learning pipeline for energy consumption prediction.
-* Improved model performance with feature engineering and tuning.
-* Prepared the model for API deployment.
-
----
-
-## 📌 Interests
-
-I am especially interested in:
-- data engineering,
-- distributed systems,
-- cloud and containerization,
-- production-ready data and ML pipelines.
+> **Stack:** `FastAPI` `React` `XGBoost` `Gemini LLM`
+- Full-stack energy diagnostic app: multi-department ML for DPE (energy rating) prediction
+- Gemini-powered AI coaching for renovation and financing recommendations
 
 ---
 
 ## 📫 Contact
-
 - **LinkedIn**: [linkedin.com/in/loanperrard](https://www.linkedin.com/in/loanperrard/)
-- **GitHub**: [github.com/loanper](https://github.com/loanper)
 - **Email**: [perrardloan@gmail.com](mailto:perrardloan@gmail.com)
