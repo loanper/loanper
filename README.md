@@ -1,6 +1,6 @@
 # Loan Perrard
 
-### DevSecOps · Cloud · Data Platform Engineer — CentraleSupélec × ECE Paris
+### DevSecOps · Cloud · Platform Engineer — CentraleSupélec × ECE Paris
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loan_Perrard-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/loanperrard/)
 [![GitHub](https://img.shields.io/badge/GitHub-loanper-black?style=flat&logo=github)](https://github.com/loanper)
